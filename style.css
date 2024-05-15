@@ -1,0 +1,33 @@
+.d-inline-block {
+    border-radius: 10px;
+}
+
+.nav-link{
+font-size: 15px;
+background-color: aqua;
+border-radius: 10px;
+
+}
+.navbar-brand{
+    
+    font-size: 28px;
+    font-style:oblique;
+    font-family:'Times New Roman';
+    margin: auto;
+}
+.info{
+    text-align:start;
+    margin-bottom:1px;
+}
+.card{
+    text-align: center;
+    margin: auto;
+}
+
+.place{
+
+    background-color: #C576F6;
+    border-radius: 10px;
+        
+}
+
